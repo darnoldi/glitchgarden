@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: b60572d7879961e459f2c2057e981ce1
+guid: 48ac709275e529b45a6eca55a7cc721b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7042790708981085834
-    second: npc_deimaginator__x1_walk_png_1354836023_0
+      213: 527032757663355356
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_0
   - first:
-      213: 2760875452998166607
-    second: npc_deimaginator__x1_walk_png_1354836023_1
+      213: 3810201260112390756
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_1
   - first:
-      213: -4988610291722661990
-    second: npc_deimaginator__x1_walk_png_1354836023_2
+      213: 6553492296256355304
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_2
   - first:
-      213: 2193734995937690109
-    second: npc_deimaginator__x1_walk_png_1354836023_3
+      213: 311254884144419700
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_3
   - first:
-      213: -1689835479538421222
-    second: npc_deimaginator__x1_walk_png_1354836023_4
+      213: -5532368075392343076
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_4
   - first:
-      213: -7848792003768527681
-    second: npc_deimaginator__x1_walk_png_1354836023_5
+      213: 2794937790599167511
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_5
   - first:
-      213: 8208663541784306624
-    second: npc_deimaginator__x1_walk_png_1354836023_6
+      213: -5222756467898412704
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_6
   - first:
-      213: -2304088941713479929
-    second: npc_deimaginator__x1_walk_png_1354836023_7
+      213: 3545612589451599676
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_7
   - first:
-      213: -1505093956908217880
-    second: npc_deimaginator__x1_walk_png_1354836023_8
+      213: -3045663765814266041
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_8
   - first:
-      213: 460143461462535627
-    second: npc_deimaginator__x1_walk_png_1354836023_9
+      213: 5279991227317673488
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_9
   - first:
-      213: 7044019659592037833
-    second: npc_deimaginator__x1_walk_png_1354836023_10
+      213: -7114962337718489638
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_10
   - first:
-      213: -6416219804664924440
-    second: npc_deimaginator__x1_walk_png_1354836023_11
+      213: -899125572188020321
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_11
   - first:
-      213: 1364627188023961926
-    second: npc_deimaginator__x1_walk_png_1354836023_12
+      213: 8077426747578091265
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_12
   - first:
-      213: 6885337071520948176
-    second: npc_deimaginator__x1_walk_png_1354836023_13
+      213: -5400732589452767220
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_13
   - first:
-      213: 8838721523751439096
-    second: npc_deimaginator__x1_walk_png_1354836023_14
+      213: -2119695379996388523
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_14
   - first:
-      213: -2387190593897431559
-    second: npc_deimaginator__x1_walk_png_1354836023_15
+      213: 3139746047267584827
+    second: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -175,13 +175,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_0
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 930
-        width: 251
-        height: 186
+        x: 124
+        y: 831
+        width: 49
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,20 +189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 679c2cb1a2bf24e90800000000000000
-      internalID: -7042790708981085834
+      spriteID: cd1d4813085605700800000000000000
+      internalID: 527032757663355356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_1
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_1
       rect:
         serializedVersion: 2
-        x: 251
-        y: 930
-        width: 251
-        height: 186
+        x: 364
+        y: 831
+        width: 49
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,20 +210,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f482d05c899905620800000000000000
-      internalID: 2760875452998166607
+      spriteID: 46aaeb7dbdd80e430800000000000000
+      internalID: 3810201260112390756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_2
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_2
       rect:
         serializedVersion: 2
-        x: 502
-        y: 930
-        width: 251
-        height: 186
+        x: 604
+        y: 832
+        width: 49
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +231,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9f4307de55e4cab0800000000000000
-      internalID: -4988610291722661990
+      spriteID: 8eb7e94858ea2fa50800000000000000
+      internalID: 6553492296256355304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_3
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 744
-        width: 251
-        height: 186
+        x: 844
+        y: 833
+        width: 53
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,20 +252,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df1853c1b56b17e10800000000000000
-      internalID: 2193734995937690109
+      spriteID: 47398040bacc15400800000000000000
+      internalID: 311254884144419700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_4
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_4
       rect:
         serializedVersion: 2
-        x: 251
-        y: 744
-        width: 251
-        height: 186
+        x: 124
+        y: 580
+        width: 64
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,20 +273,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a12b241a59f7c88e0800000000000000
-      internalID: -1689835479538421222
+      spriteID: cd327831c841933b0800000000000000
+      internalID: -5532368075392343076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_5
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_5
       rect:
         serializedVersion: 2
-        x: 502
-        y: 744
-        width: 251
-        height: 186
+        x: 343
+        y: 579
+        width: 87
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,20 +294,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb4537bd14d731390800000000000000
-      internalID: -7848792003768527681
+      spriteID: 71e7af1cc1d99c620800000000000000
+      internalID: 2794937790599167511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_6
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 558
-        width: 251
-        height: 186
+        x: 580
+        y: 578
+        width: 92
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,20 +315,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c3e0c8fff70be170800000000000000
-      internalID: 8208663541784306624
+      spriteID: 0619a8ee9aa0587b0800000000000000
+      internalID: -5222756467898412704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_7
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_7
       rect:
         serializedVersion: 2
-        x: 251
-        y: 558
-        width: 251
-        height: 186
+        x: 819
+        y: 578
+        width: 93
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,20 +336,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 707234aa05b3600e0800000000000000
-      internalID: -2304088941713479929
+      spriteID: c3f5a695ddb843130800000000000000
+      internalID: 3545612589451599676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_8
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_8
       rect:
         serializedVersion: 2
-        x: 502
-        y: 558
-        width: 251
-        height: 186
+        x: 99
+        y: 324
+        width: 93
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,20 +357,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e906e04505dc1be0800000000000000
-      internalID: -1505093956908217880
+      spriteID: 747bc5d01f0abb5d0800000000000000
+      internalID: -3045663765814266041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_9
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 372
-        width: 251
-        height: 186
+        x: 339
+        y: 324
+        width: 93
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,20 +378,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcd613e4a02c26600800000000000000
-      internalID: 460143461462535627
+      spriteID: 01ed271fb0c464940800000000000000
+      internalID: 5279991227317673488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_10
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_10
       rect:
         serializedVersion: 2
-        x: 251
-        y: 372
-        width: 251
-        height: 186
+        x: 579
+        y: 324
+        width: 93
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,20 +399,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c5f9d04f8261c160800000000000000
-      internalID: 7044019659592037833
+      spriteID: adda1065373924d90800000000000000
+      internalID: -7114962337718489638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_11
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_11
       rect:
         serializedVersion: 2
-        x: 502
-        y: 372
-        width: 251
-        height: 186
+        x: 819
+        y: 324
+        width: 93
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,20 +420,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e6fe1e051205f6a0800000000000000
-      internalID: -6416219804664924440
+      spriteID: f91634d4e0aa583f0800000000000000
+      internalID: -899125572188020321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_12
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 186
-        width: 251
-        height: 186
+        x: 99
+        y: 70
+        width: 93
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,20 +441,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6492209823120f210800000000000000
-      internalID: 1364627188023961926
+      spriteID: 10781a4b4d8c81070800000000000000
+      internalID: 8077426747578091265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_13
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_13
       rect:
         serializedVersion: 2
-        x: 251
-        y: 186
-        width: 251
-        height: 186
+        x: 339
+        y: 70
+        width: 93
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,20 +462,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0df95d22691ad8f50800000000000000
-      internalID: 6885337071520948176
+      spriteID: c00dacef25ebc05b0800000000000000
+      internalID: -5400732589452767220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_14
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_14
       rect:
         serializedVersion: 2
-        x: 502
-        y: 186
-        width: 251
-        height: 186
+        x: 579
+        y: 70
+        width: 93
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,20 +483,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8facdc3756279aa70800000000000000
-      internalID: 8838721523751439096
+      spriteID: 553574358445592e0800000000000000
+      internalID: -2119695379996388523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_deimaginator__x1_walk_png_1354836023_15
+      name: npc_juju_bandit_bandana_none_variant_yellow_x1_walk_end_png_1354834333_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 251
-        height: 186
+        x: 819
+        y: 70
+        width: 93
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -504,8 +504,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fdf69f7dcefeded0800000000000000
-      internalID: -2387190593897431559
+      spriteID: b3b3258156e929b20800000000000000
+      internalID: 3139746047267584827
       vertices: []
       indices: 
       edges: []
